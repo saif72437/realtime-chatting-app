@@ -1,4 +1,4 @@
-# Real-Time Chatting App
+![image](https://github.com/user-attachments/assets/50e036e1-d07d-4c45-b8b3-6f741471d942)# Real-Time Chatting App
 
 This is a real-time chatting application built using Socket.IO, Express, and Node.js. It allows users to communicate with each other in real-time, making it ideal for chat applications, customer support systems, and more.
 
@@ -21,6 +21,7 @@ This is a real-time chatting application built using Socket.IO, Express, and Nod
 - HTML, CSS, JavaScript: For frontend design and functionality.
 
 ## Screen Shorts
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/6536349c-c18d-4351-8134-450f291d42aa)
+
 
 
