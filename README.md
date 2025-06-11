@@ -21,6 +21,6 @@ This is a real-time chatting application built using Socket.IO, Express, and Nod
 - HTML, CSS, JavaScript: For frontend design and functionality.
 
 ## Screen Shorts
-![chat1](https://github.com/saifullah72437/Real-Time-Chatting-App-Socket-Io-/assets/73275780/78177846-5885-4736-9af5-042b06d577e6)
-![chat2](https://github.com/saifullah72437/Real-Time-Chatting-App-Socket-Io-/assets/73275780/325da084-c1c3-4c0f-b0a4-124173f8c169)
+![Uploading image.png…]()
+
 
